@@ -1,6 +1,6 @@
-# This is the title
+# This is the project title
 
-![License: Apache 2.0](https://img.shields.io/badge/Apache%202.0-blue.svg)
+![License: Artistic 2.0](https://img.shields.io/badge/Artistic%202.0-blue.svg)
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@
 
 ## Description
 
-This is the project description
+This is the description
 
 ## Installation
 
@@ -30,11 +30,11 @@ These are the contribution guidelines
 
 ## Test
 
-These are the testing instructions
+These are the testing instrucions
 
 ## License
 
-This project is licensed by the Apache 2.0 license.
+This project is licensed by the Artistic 2.0 license.
 
 ## Questions
 
